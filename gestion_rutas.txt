@@ -1,0 +1,9 @@
+Módulo de Gestión de Rutas de Entrega
+-------------------------------------
+1. Ruta A:
+   - Punto de entrega: Cliente 1
+   - Horario: 9:00 AM - 10:00 AM
+   
+2. Ruta B:
+   - Punto de entrega: Cliente 2
+   - Horario: 11:00 AM - 12:00 PM
